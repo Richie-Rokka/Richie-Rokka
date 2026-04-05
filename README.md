@@ -33,7 +33,7 @@ Analyzed inventory data to identify stockout risks, overstock conditions, and lo
 - Identified inefficiencies in inventory allocation and warehouse distribution  
 - Provided recommendations for demand-driven inventory planning  
 
-🔗 *(Add your repo link here)*
+🔗 https://github.com/Richie-Rokka/Inventory-Risk-Demand-Optimization
 
 ---
 
