@@ -1,16 +1,77 @@
-## Hi there 👋
+# 👋 Hi, I'm Abodunrin Oketade
 
-<!--
-**Richie-Rokka/Richie-Rokka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Aspiring Data Analyst with 15+ years of experience across operations, logistics, manufacturing, and sales. I specialize in turning data into actionable insights that improve business performance and decision-making.
 
-Here are some ideas to get you started:
+I recently completed the Google Data Analytics Professional Certificate and I am actively building hands-on projects using SQL, Excel, Tableau, and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔍 What I Do
+
+- Analyze data to identify trends, risks, and opportunities  
+- Build dashboards to support business decision-making  
+- Translate complex data into clear, actionable insights  
+- Apply data-driven thinking to operations and supply chain challenges  
+
+---
+
+## 🛠 Skills & Tools
+
+- **Data Analysis:** SQL, Excel, Google Sheets  
+- **Visualization:** Tableau  
+- **Programming:** Python  
+- **Core Skills:** Data Cleaning, Data Visualization, KPI Reporting, Business Analysis, Problem Solving  
+
+---
+
+## 📂 Featured Projects
+
+### 📦 Inventory Risk & Demand Optimization Analysis
+Analyzed inventory data to identify stockout risks, overstock conditions, and lost sales opportunities using Tableau.
+
+- Built KPIs: Stockout Rate, Overstock Rate, Estimated Lost Sales  
+- Identified inefficiencies in inventory allocation and warehouse distribution  
+- Provided recommendations for demand-driven inventory planning  
+
+🔗 *(Add your repo link here)*
+
+---
+
+### 🚴 Cyclistic Bike-Share Analysis
+Conducted a full case study analyzing rider behavior to support marketing strategy decisions.
+
+- Cleaned and analyzed large datasets using SQL and Excel  
+- Identified behavioral differences between casual riders and members  
+- Delivered insights to support customer conversion strategy  
+
+🔗 https://github.com/Richie-Rokka/Data-Analytics-Capstone-Project-Cyclistic-Bike-Share
+
+---
+
+### 📊 Sales Performance & Customer Analytics *(In Progress)*
+Analyzing sales and customer data to identify revenue drivers and customer segmentation patterns.
+
+---
+
+## 📈 What I'm Working On
+
+- Building end-to-end data analytics projects  
+- Strengthening SQL and Python skills  
+- Preparing for junior data analyst roles  
+
+---
+
+## 🤝 Let's Connect
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/abodunrin-oketade-579aa331  
+- 💻 GitHub: https://github.com/Richie-Rokka  
+
+---
+
+## 📌 Career Focus
+
+I am actively seeking opportunities as a **Junior Data Analyst**, where I can apply data-driven insights to solve business problems and support decision-making.
+
+---
+
+⭐ *Thank you for visiting my profile!*
