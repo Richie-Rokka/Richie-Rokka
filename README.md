@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abodunrin Oketade
+# 👋 Hi, I'm Richard Abodunrin Oketade
 
 📊 Aspiring Data Analyst with 15+ years of experience across operations, logistics, manufacturing, and sales. I specialize in turning data into actionable insights that improve business performance and decision-making.
 
