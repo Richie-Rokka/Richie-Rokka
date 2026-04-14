@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Richard Abodunrin Oketade
 
-📊 Aspiring Data Analyst with 15+ years of experience across operations, logistics, manufacturing, and sales. I specialize in turning data into actionable insights that improve business performance and decision-making.
+📊 Data Analyst with 15+ years of experience across operations, logistics, manufacturing, and sales. I specialize in turning data into actionable insights that improve business performance and decision-making.
 
 I recently completed the Google Data Analytics Professional Certificate and I am actively building hands-on projects using SQL, Excel, Tableau, and Python.
 
@@ -48,11 +48,6 @@ Conducted a full case study analyzing rider behavior to support marketing strate
 
 ---
 
-### 📊 Sales Performance & Customer Analytics *(In Progress)*
-Analyzing sales and customer data to identify revenue drivers and customer segmentation patterns.
-
----
-
 ## 📈 What I'm Working On
 
 - Building end-to-end data analytics projects  
@@ -70,7 +65,7 @@ Analyzing sales and customer data to identify revenue drivers and customer segme
 
 ## 📌 Career Focus
 
-I am actively seeking opportunities as a **Junior Data Analyst**, where I can apply data-driven insights to solve business problems and support decision-making.
+I am actively seeking opportunities as a **Data Analyst**, where I can apply data-driven insights to solve business problems and support decision-making.
 
 ---
 
