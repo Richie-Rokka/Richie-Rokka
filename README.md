@@ -25,6 +25,28 @@ I build end-to-end analytics solutions that transform raw data into actionable b
 
 ## 📂 Featured Projects
 
+### 🏡 Property Tax & Assessment Data Quality Dashboard
+
+I built an end-to-end **data quality and validation solution** for property tax and assessment datasets. Using **Power Query**, **Excel**, and **interactive dashboards**, the solution automates the detection of data inconsistencies, enhances governance, and supports evidence-based decision-making.
+
+- Designed an automated ETL and reporting framework validating 500+ records, reducing manual data processing by
+80%.
+- Built interactive dashboards providing executive visibility into KPIs and data quality metrics.
+- Implemented statistical outlier detection and comprehensive validation checks to ensure reliable analytics.
+
+---
+
+### 📦 Automated Inventory & Sales Reporting Dashboard,
+
+I developed an **automated data analytics solution** using Excel to streamline reporting, improve data accuracy, and deliver actionable business insights. By using **Power Query, structured data modeling, and interactive dashboards**, the solution transforms raw operational data into a scalable reporting system that supports decision-making across sales and inventory functions.
+
+- Developed scalable data pipelines integrating sales and inventory datasets, enabling self-service analytics for
+stakeholders.
+- Delivered executive dashboards tracking revenue, profit, and operational performance.
+- Reduced reporting time by 80%+ by automating data workflows and eliminating repetitive manual tasks
+
+---
+
 ### 📦 Inventory Risk & Demand Optimization Analysis
 Analyzed inventory data to identify stockout risks, overstock conditions, and lost sales opportunities using Tableau.
 
@@ -51,7 +73,7 @@ Conducted a full case study analyzing rider behavior to support marketing strate
 
 - Building end-to-end data analytics projects  
 - Strengthening SQL and Python skills  
-- Preparing for junior data analyst roles  
+- Preparing for data analyst roles  
 
 ---
 
