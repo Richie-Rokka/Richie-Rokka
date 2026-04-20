@@ -35,6 +35,7 @@ I built an end-to-end **data quality and validation solution** for property tax 
 - Implemented statistical outlier detection and comprehensive validation checks to ensure reliable analytics.
 
 🔗 https://github.com/Richie-Rokka/Property-Tax-Data-Quality-Dashboard-
+
 ---
 
 ### 📦 Automated Inventory & Sales Reporting Dashboard,
@@ -46,7 +47,7 @@ stakeholders.
 - Delivered executive dashboards tracking revenue, profit, and operational performance.
 - Reduced reporting time by 80%+ by automating data workflows and eliminating repetitive manual tasks
 
-🔗
+🔗 https://github.com/Richie-Rokka/Automated-Inventory-and-Sales-Reporting-Dashboard
 
 ---
 
