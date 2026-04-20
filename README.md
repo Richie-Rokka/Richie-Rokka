@@ -17,8 +17,8 @@ I recently completed the Google Data Analytics Professional Certificate and I am
 
 ## 🛠 Skills & Tools
 
-- **Data Analysis:** SQL, Excel, Google Sheets  
-- **Visualization:** Tableau  
+- **Data Analysis:** SQL, Excel (Advanced, Power Query), Google Sheets  
+- **Visualization:** Tableau, Power BI
 - **Programming:** Python  
 - **Core Skills:** Data Cleaning, Data Visualization, KPI Reporting, Business Analysis, Problem Solving  
 
