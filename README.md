@@ -1,17 +1,16 @@
 # 👋 Hi, I'm Richard Abodunrin Oketade
 
-📊 Data Analyst with 15+ years of experience across operations, logistics, manufacturing, and sales. I specialize in turning data into actionable insights that improve business performance and decision-making.
+📊 Data Analyst | Business Intelligence | Sales, Operations & Marketing Analytics  
 
-I recently completed the Google Data Analytics Professional Certificate and I am actively building hands-on projects using SQL, Excel, Tableau, and Python.
+I build end-to-end analytics solutions that transform raw data into actionable business insights.
 
 ---
 
-## 🔍 What I Do
-
-- Analyze data to identify trends, risks, and opportunities  
-- Build dashboards to support business decision-making  
-- Translate complex data into clear, actionable insights  
-- Apply data-driven thinking to operations and supply chain challenges  
+## 🚀 What I Do
+- Design interactive dashboards in **Power BI**
+- Build data models using **star schema**
+- Analyze data using **SQL & Python**
+- Translate data into **business decisions and insights**
 
 ---
 
