@@ -77,7 +77,7 @@ Conducted a full case study analyzing rider behavior to support marketing strate
 
 - Building end-to-end data analytics projects  
 - Strengthening SQL and Python skills  
-- Preparing for data analyst roles  
+- Ready for data analyst roles  
 
 ---
 
