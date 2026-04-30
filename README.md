@@ -83,7 +83,7 @@ Conducted a full case study analyzing rider behavior to support marketing strate
 
 ## 🤝 Let's Connect
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/abodunrin-oketade-579aa331  
+- 🔗 LinkedIn: https://www.linkedin.com/in/abodunrin-oketade 
 - 💻 GitHub: https://github.com/Richie-Rokka  
 
 ---
