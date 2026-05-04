@@ -6,11 +6,11 @@ I build end-to-end analytics solutions that transform raw data into actionable b
 
 ---
 
-## 🚀 What I Do
-- Design interactive dashboards in **Power BI**
-- Build data models using **star schema**
-- Analyze data using **SQL & Python**
-- Translate data into **business decisions and insights**
+## 🚀 I specialize in:
+- 📊 Data Analysis (SQL, Python, Excel)
+- 📈 Dashboarding (Power BI, Tableau)
+- 🧠 Business Insights (Marketing, Revenue, Operations)
+- 🔍 Data Quality & Validation
 
 ---
 
