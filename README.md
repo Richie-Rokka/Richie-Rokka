@@ -23,7 +23,7 @@ I turn raw data into **accurate, decision-ready insights** by combining analytic
 - Enabled structured data cleansing and improved reporting reliability  
 
 **Tools:** Excel, Power Query  
-👉 [View Project](https://[github.com/Richie-Rokka/property-tax-data-quality-dashboard](https://github.com/Richie-Rokka/Property-Tax-Data-Quality-Dashboard-))
+👉 [View Project](https://(https://github.com/Richie-Rokka/Property-Tax-Data-Quality-Dashboard-)
 
 ---
 
