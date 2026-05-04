@@ -23,7 +23,7 @@ I turn raw data into **accurate, decision-ready insights** by combining analytic
 - Enabled structured data cleansing and improved reporting reliability  
 
 **Tools:** Excel, Power Query  
-- <a href="https://github.com/Richie-Rokka/property-tax-data-quality-dashboard-">👉 [View Project]</a>
+- <a href="https://github.com/Richie-Rokka/property-tax-data-quality-dashboard-"> 👉 [View Project]</a>
 
 
 
@@ -45,7 +45,7 @@ I turn raw data into **accurate, decision-ready insights** by combining analytic
 - Enabled data-driven operational decisions  
 
 **Tools:** SQL, Power BI  
-👉 [View Project](#)
+- <a href= "https://github.com/Richie-Rokka/sales-logistics-revenue-risk-dashboard-powerbi"> 👉 [View Project]</a>
 
 ---
 
