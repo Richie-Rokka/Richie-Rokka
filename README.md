@@ -35,7 +35,7 @@ I turn raw data into **accurate, decision-ready insights** by combining analytic
 - Improved accuracy of performance interpretation and decision-making  
 
 **Tools:** SQL, Python, Power BI  
-👉 [View Project](https://github.com/Richie-Rokka/marketing-funnel-cohort-analysis)
+👉 [View Project](https://github.com/Richie-Rokka/Cohort-Based-Marketing-Funnel-Analysis-SQL-Python-Power-BI)
 
 ---
 
