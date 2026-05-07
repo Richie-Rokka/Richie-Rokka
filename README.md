@@ -46,7 +46,7 @@ I turn raw data into **accurate, decision-ready insights** by combining analytic
 
 **Tools:** SQL, Power BI
 
-👉 [View Project](https://github.com/Richie-Rokka/Operational-Intelligence-Performance-Dashboardrd-powerbi)
+👉 [View Project](https://github.com/Richie-Rokka/Operational-Intelligence-Performance-Dashboard)
 
 ---
 
