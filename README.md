@@ -39,14 +39,14 @@ I turn raw data into **accurate, decision-ready insights** by combining analytic
 
 ---
 
-### 🚚 Sales & Logistics Performance Dashboard
+### 🚚 Operational Intelligence & Performance Dashboard
 - Analyzed operational and revenue data to identify inefficiencies  
 - Built KPI dashboards to support performance monitoring  
 - Enabled data-driven operational decisions
 
 **Tools:** SQL, Power BI
 
-👉 [View Project](https://github.com/Richie-Rokka/sales-logistics-revenue-risk-dashboard-powerbi)
+👉 [View Project](https://github.com/Richie-Rokka/Operational-Intelligence-Performance-Dashboardrd-powerbi)
 
 ---
 
