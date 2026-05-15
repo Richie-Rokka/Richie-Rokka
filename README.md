@@ -1,4 +1,4 @@
-# Hi, I'm Richard Oketade 👋
+# Hi, I'm Abodunrin Richard Oketade 👋
 
 **Data Analyst | Business Intelligence | Data Quality & Analytics Systems**
 
