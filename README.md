@@ -17,6 +17,22 @@ I turn raw data into **accurate, decision-ready insights** by combining analytic
 
 ## 🚀 Featured Projects
 
+### 📊 Marketing Mix Modeling Revenue Optimization
+
+- Designed and developed a 3-page executive marketing analytics dashboard in Power BI to analyze channel performance, revenue trends, customer acquisition costs (CAC), and conversion efficiency across multi-channel campaigns.
+
+- Built advanced DAX measures for KPI reporting, rolling 4-week/12-week revenue analysis, MoM growth, time intelligence, forecasted revenue, forecasted ROI, and marginal return simulation.
+
+- Developed channel diagnostics and optimization logic to identify high-performing acquisition channels, improving strategic visibility into marketing efficiency and marginal ROI performance.
+
+- Utilized Python to generate and refine realistic marketing performance datasets, improving KPI realism and analytical consistency for scenario-based simulations.
+
+**Tools:** Python, Power BI, Power Query
+
+👉 [View Project](https://github.com/Richie-Rokka/Marketing-Mix-Modeling-Revenue-Optimization)
+
+---
+
 ### 📉 Property Tax & Assessment Data Quality Dashboard
 - Identified **22.2% data quality issues** across 500+ records  
 - Built validation checks (duplicates, mismatches, completeness)  
@@ -25,7 +41,6 @@ I turn raw data into **accurate, decision-ready insights** by combining analytic
 **Tools:** Excel, Power Query  
 
 👉 [View Project](https://github.com/Richie-Rokka/property-tax-data-quality-dashboard-)
-
 
 ---
 
