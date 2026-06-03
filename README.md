@@ -33,14 +33,14 @@ I turn raw data into **accurate, decision-ready insights** by combining analytic
 
 ---
 
-### 📉 Property Tax & Assessment Data Quality Dashboard
+### 📉 Data Quality Monitoring & Governance System
 - Identified **22.2% data quality issues** across 500+ records  
 - Built validation checks (duplicates, mismatches, completeness)  
 - Enabled structured data cleansing and improved reporting reliability  
 
 **Tools:** Excel, Power Query  
 
-👉 [View Project](https://github.com/Richie-Rokka/property-tax-data-quality-dashboard-)
+👉 [View Project](https://github.com/Richie-Rokka/Data-Quality-Monitoring-and-Governance-System))
 
 ---
 
