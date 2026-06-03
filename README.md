@@ -1,6 +1,6 @@
 # Hi, I'm Abodunrin Richard Oketade 👋
 
-**Data Analyst | Business Intelligence | Data Quality & Analytics Systems**
+**Business Intelligence Analyst | Power BI • SQL • Python | Workforce Planning, Revenue Operations & Marketing Analytics | Transforming Data into Strategic Decisions**
 
 I turn raw data into **accurate, decision-ready insights** by combining analytics, data validation, and business context.
 
