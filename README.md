@@ -40,7 +40,7 @@ I turn raw data into **accurate, decision-ready insights** by combining analytic
 
 **Tools:** Excel, Power Query  
 
-👉 [View Project](https://github.com/Richie-Rokka/Data-Quality-Monitoring-and-Governance-System))
+👉 [View Project](https://github.com/Richie-Rokka/Data-Quality-Monitoring-and-Governance-System)
 
 ---
 
