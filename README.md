@@ -1,95 +1,164 @@
-# Hi, I'm Abodunrin Richard Oketade 👋
+# Hi, I'm Abodunrin Oketade 👋
 
-**Business Intelligence Analyst | Power BI • SQL • Python | Workforce Planning, Revenue Operations & Marketing Analytics | Transforming Data into Strategic Decisions**
+### Business Intelligence Analyst | Power BI • SQL • Python
 
-I turn raw data into **accurate, decision-ready insights** by combining analytics, data validation, and business context.
+I build analytics solutions that transform workforce, revenue, operational, and marketing data into actionable business insights.
 
----
-
-## 🔍 What I Do
-
-- 📊 Analyze structured datasets using SQL & Python  
-- 📈 Build dashboards (Power BI, Tableau) for performance tracking  
-- 🧠 Translate data into business insights and recommendations  
-- 🔍 Design data quality frameworks to ensure data integrity  
+My work focuses on helping organizations make smarter decisions through forecasting, optimization, executive reporting, workforce planning, and performance analytics.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 What I Do
 
-### 📊 Marketing Mix Modeling Revenue Optimization
+📊 Build executive dashboards and business intelligence solutions
 
-- Designed and developed a 3-page executive marketing analytics dashboard in Power BI to analyze channel performance, revenue trends, customer acquisition costs (CAC), and conversion efficiency across multi-channel campaigns.
+👥 Analyze workforce trends, staffing demand, and retention risks
 
-- Built advanced DAX measures for KPI reporting, rolling 4-week/12-week revenue analysis, MoM growth, time intelligence, forecasted revenue, forecasted ROI, and marginal return simulation.
+📈 Optimize revenue performance through forecasting and analytics
 
-- Developed channel diagnostics and optimization logic to identify high-performing acquisition channels, improving strategic visibility into marketing efficiency and marginal ROI performance.
+🎯 Measure marketing effectiveness and investment impact
 
-- Utilized Python to generate and refine realistic marketing performance datasets, improving KPI realism and analytical consistency for scenario-based simulations.
+⚙️ Automate reporting processes and improve data quality
 
-**Tools:** Python, Power BI, Power Query
-
-👉 [View Project](https://github.com/Richie-Rokka/Marketing-Mix-Modeling-Revenue-Optimization)
+📚 Transform complex datasets into decision-ready insights
 
 ---
 
-### 📉 Data Quality Monitoring & Governance System
-- Identified **22.2% data quality issues** across 500+ records  
-- Built validation checks (duplicates, mismatches, completeness)  
-- Enabled structured data cleansing and improved reporting reliability  
+## 🛠️ Technical Toolkit
 
-**Tools:** Excel, Power Query  
+### Analytics & BI
 
-👉 [View Project](https://github.com/Richie-Rokka/Data-Quality-Monitoring-and-Governance-System)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-Analytics-blue?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge)
 
----
+### Data & Reporting
 
-### 📊 Cohort-Based Marketing Funnel Analysis
-- Replaced misleading snapshot analysis with cohort tracking  
-- Identified **time-driven conversion patterns** (majority within 30 days)  
-- Improved accuracy of performance interpretation and decision-making  
-
-**Tools:** SQL, Python, Power BI  
-👉 [View Project](https://github.com/Richie-Rokka/Cohort-Based-Marketing-Funnel-Analysis-SQL-Python-Power-BI)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-Analytics-orange?style=for-the-badge)
 
 ---
 
-### 🚚 Operational Intelligence & Performance Dashboard
-- Analyzed operational and revenue data to identify inefficiencies  
-- Built KPI dashboards to support performance monitoring  
-- Enabled data-driven operational decisions
+# 🌟 Featured Projects
 
-**Tools:** SQL, Power BI
+## 🚀 Enterprise Workforce Planning & Talent Intelligence Platform
 
-👉 [View Project](https://github.com/Richie-Rokka/Operational-Intelligence-Performance-Dashboard)
+A strategic workforce intelligence platform designed to help organizations balance workforce supply, forecast staffing demand, identify retention risks, and optimize recruitment effectiveness.
+
+### Key Highlights
+
+✅ Workforce Forecasting
+
+✅ Staffing Gap Analysis
+
+✅ Attrition Intelligence
+
+✅ Workforce Risk Assessment
+
+✅ Recruitment Performance Analytics
+
+✅ Executive Workforce Planning Dashboards
+
+### Business Impact
+
+* Analyzed workforce activity across **5,000 employees**
+* Identified a projected workforce gap of **2,735 positions**
+* Monitored workforce risk exposure across **8 departments**
+* Evaluated recruitment capacity against forecasted workforce demand
+
+🔗 Repository:
+[Enterprise Workforce Planning & Talent Intelligence](https://github.com/Richie-Rokka/enterprise-workforce-planning-talent-intelligence)
+
+---
+
+## 📈 Marketing Mix Modeling & Revenue Optimization
+
+An end-to-end analytics solution designed to evaluate marketing effectiveness, forecast revenue impact, and optimize budget allocation decisions.
+
+### Key Highlights
+
+✅ Marketing Mix Modeling
+
+✅ Revenue Forecasting
+
+✅ Budget Optimization
+
+✅ Scenario Analysis
+
+✅ Channel Performance Evaluation
+
+✅ Executive Marketing Dashboards
+
+### Business Impact
+
+* Quantified channel-level marketing effectiveness
+* Simulated budget reallocation scenarios
+* Delivered revenue optimization recommendations
+* Supported data-driven marketing investment decisions
+
+🔗 Repository:
+[Marketing Mix Modeling & Revenue Optimization](https://github.com/Richie-Rokka/marketing-mix-modeling-budget-optimization-dashboard)
 
 ---
 
-## 🧩 Core Skills
+## 📊 Data Quality Monitoring & Governance System
 
-**Analytics:** SQL, Python (Pandas), Excel  
-**Visualization:** Power BI, Tableau  
-**Specialties:** Data Quality, Data Validation, Business Insights, KPI Tracking  
+An automated data quality framework designed to identify anomalies, duplicates, inconsistencies, and reporting issues across operational datasets.
+
+### Key Highlights
+
+✅ Data Validation
+
+✅ Data Quality Monitoring
+
+✅ Reporting Governance
+
+✅ Process Automation
+
+✅ KPI Monitoring
+
+---
+
+# 🎯 Areas of Focus
+
+* Business Intelligence
+* Workforce Planning Analytics
+* Revenue Operations Analytics
+* People Analytics
+* Forecasting & Optimization
+* Executive Dashboard Development
+* Data Quality & Governance
+* Strategic Analytics
 
 ---
 
-## 🧠 My Approach
+# 📈 Professional Highlights
 
-> Data is only valuable when it is **accurate, understood, and actionable**.
-
-I focus on:
-- Ensuring data reliability  
-- Identifying root causes, not just trends  
-- Translating insights into business decisions  
+* 5+ years of experience in analytics, operations, and business performance management
+* Built enterprise-scale workforce planning and marketing analytics platforms
+* Experienced in forecasting, KPI reporting, and executive decision support
+* Passionate about turning data into strategic business outcomes
 
 ---
 
-## 📫 Let’s Connect
+# 🤝 Let's Connect
 
-- LinkedIn: https://www.linkedin.com/in/abodunrin-oketade
-  
+💼 LinkedIn
+[www.linkedin.com/in/abodunrin-oketade](http://www.linkedin.com/in/abodunrin-oketade)
+
+📂 GitHub Portfolio
+https://github.com/Richie-Rokka
+
+📧 Email
+[aoketade@gmail.com](mailto:aoketade@gmail.com)
 
 ---
+
+> “Data becomes valuable when it drives better decisions.”
+
 
 ⭐ *Currently seeking Data Analyst roles focused on analytics, data quality, and business intelligence*
 ---
