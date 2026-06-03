@@ -120,6 +120,9 @@ An automated data quality framework designed to identify anomalies, duplicates, 
 
 ✅ KPI Monitoring
 
+🔗 Repository:
+[Data Quality Monitoring & Governance System](https://github.com/Richie-Rokka/Data-Quality-Monitoring-and-Governance-System)
+
 ---
 
 # 🎯 Areas of Focus
@@ -158,15 +161,3 @@ https://github.com/Richie-Rokka
 ---
 
 > “Data becomes valuable when it drives better decisions.”
-
-
-⭐ *Currently seeking Data Analyst roles focused on analytics, data quality, and business intelligence*
----
-
-## 📌 Career Focus
-
-I am actively seeking opportunities as a **Data Analyst**, where I can apply data-driven insights to solve business problems and support decision-making.
-
----
-
-⭐ *Thank you for visiting my profile!*
