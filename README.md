@@ -172,8 +172,6 @@ This system demonstrates how raw administrative data can be transformed into a g
 
 ## 🎯 Areas of Focus
 
-## Areas of Focus
-
 • Revenue Analytics
 
 • Revenue Operations
