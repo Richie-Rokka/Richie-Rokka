@@ -2,77 +2,59 @@
 
 ## Revenue Analytics & Revenue Operations Professional
 
-Transforming Revenue, Pipeline, Customer, and Commercial Data into Actionable Business Insights
+I help organizations transform revenue, pipeline, customer, and commercial data into actionable business insights that improve growth, forecasting accuracy, sales performance, and executive decision-making.
 
-Power BI • SQL • Python • PostgreSQL • Revenue Forecasting • Funnel Analytics • Commercial Intelligence
-
----
-
-## 🚀 What I Do
-
-📊 Revenue Analytics & Revenue Operations
-
-📈 Revenue Forecasting & Pipeline Intelligence
-
-🎯 Funnel & Conversion Analytics
-
-💰 Customer & Commercial Performance Analytics
-
-📋 Executive KPI Reporting & Dashboard Development
-
-⚙️ Reporting Automation & Data Governance
+With 10+ years of experience across commercial operations, sales, trade marketing, logistics, and business intelligence, I combine deep business expertise with modern analytics capabilities to solve real-world revenue challenges.
 
 ---
 
-## 🛠️ Technical Toolkit
+## 🚀 Business Domains
 
-### Analytics & BI
+📈 Revenue Analytics
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-Analytics-blue?style=for-the-badge)
-![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge)
+🎯 Revenue Operations
 
-### Data & Reporting
+💰 Commercial Intelligence
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
-![Data Modeling](https://img.shields.io/badge/Data_Modeling-Analytics-orange?style=for-the-badge)
+📊 Sales & Funnel Analytics
+
+👥 Customer Analytics
+
+🔮 Revenue Forecasting
+
+📋 Executive Reporting
+
+⚙️ Data Quality & Governance
 
 ---
 
-# 🌟 Featured Projects
+# 🌟 Revenue Analytics Portfolio
 
 ## 🚀 Revenue Operations Intelligence Platform
 
-### Business Challenge
+An end-to-end Revenue Intelligence solution designed to improve visibility into pipeline performance, sales effectiveness, customer value, and revenue growth.
 
-Revenue teams often struggle with pipeline visibility, forecasting accuracy, conversion bottlenecks, and customer performance analysis.
+#### Business Impact
 
-### Solution
+📊 $2.0B Pipeline Analyzed
 
-Built an end-to-end Revenue Operations platform providing visibility into:
+💰 $342.8M Revenue Tracked
 
-📊 $2.0B Pipeline
+🎯 100K Leads Evaluated
 
-💰 $342.8M Revenue
+👥 10K Customer Records
 
-🎯 100K Leads
+#### Capabilities
 
-👥 10K Customers
+• Revenue Analytics
 
-### Capabilities
+• Funnel Analytics
 
-✅ Revenue Analytics
+• Customer Intelligence
 
-✅ Funnel Analytics
+• Sales Performance Analytics
 
-✅ Customer Intelligence
-
-✅ Sales Performance Analytics
-
-✅ Executive KPI Reporting
+• Executive KPI Reporting
 
 
 🔗 Repository:
@@ -110,7 +92,7 @@ An end-to-end analytics solution designed to evaluate marketing effectiveness, f
 
 ---
 
-# 📊 Cohort-Based Marketing Funnel Analysis  
+## 📊 Cohort-Based Marketing Funnel Analysis  
 **Identifying Conversion Bottlenecks, Retention Decay, and High-ROI Channels**
 
 🚀 End-to-end analytics project combining **SQL, Python, and Power BI** to diagnose where growth breaks across the marketing funnel and how to fix it.
@@ -122,7 +104,7 @@ An end-to-end analytics solution designed to evaluate marketing effectiveness, f
 - 🔁 No delayed conversion or lifecycle recovery  
 - 💸 LinkedIn shows high CAC with low conversion  
 
-## 💼 Business Impact
+### 💼 Business Impact
 
 This system enables:
 
@@ -153,7 +135,7 @@ An automated data quality framework designed to identify anomalies, duplicates, 
 
 ✅ KPI Monitoring
 
-## 💼 Business Value
+### 💼 Business Value
 
 This system demonstrates how raw administrative data can be transformed into a governed analytical asset that supports:
 
@@ -170,31 +152,47 @@ This system demonstrates how raw administrative data can be transformed into a g
 
 ---
 
-# 🎯 Areas of Focus
+## 🛠️ Technical Toolkit
 
-## Areas of Focus
+### Analytics & BI
 
-- Revenue Analytics
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-Analytics-blue?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge)
 
-- Revenue Operations
+### Data & Reporting
 
-- Commercial Intelligence
-
-- Sales Analytics
-
-- Funnel Analytics
-
-- Revenue Forecasting
-
-- Customer Analytics
-
-- Executive Reporting
-
-- Data Quality & Governance
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-Analytics-orange?style=for-the-badge)
 
 ---
 
-# 📈 Professional Highlights
+## 🎯 Areas of Focus
+
+## Areas of Focus
+
+• Revenue Analytics
+
+• Revenue Operations
+
+• Commercial Intelligence
+
+• Revenue Forecasting
+
+• Pipeline Analytics
+
+• Customer Analytics
+
+• Sales Analytics
+
+• Business Intelligence
+
+---
+
+## 📈 Professional Highlights
 
 ✔ 10+ years of commercial, sales, operations, and analytics experience
 
@@ -206,7 +204,7 @@ This system demonstrates how raw administrative data can be transformed into a g
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
 💼 LinkedIn
 [www.linkedin.com/in/abodunrin-oketade](http://www.linkedin.com/in/abodunrin-oketade)
