@@ -65,9 +65,13 @@ Built an end-to-end Revenue Operations platform providing visibility into:
 ### Capabilities
 
 ✅ Revenue Analytics
+
 ✅ Funnel Analytics
+
 ✅ Customer Intelligence
+
 ✅ Sales Performance Analytics
+
 ✅ Executive KPI Reporting
 
 
@@ -111,16 +115,12 @@ An end-to-end analytics solution designed to evaluate marketing effectiveness, f
 
 🚀 End-to-end analytics project combining **SQL, Python, and Power BI** to diagnose where growth breaks across the marketing funnel and how to fix it.
 
----
-
 ### 📊 Key Findings
 
 - 🚨 Largest drop-off at SQL → Customer (~67%)  
 - 📉 Conversions heavily front-loaded (0–30 days)  
 - 🔁 No delayed conversion or lifecycle recovery  
 - 💸 LinkedIn shows high CAC with low conversion  
-
----
 
 ## 💼 Business Impact
 
