@@ -1,26 +1,26 @@
 # Hi, I'm Abodunrin Oketade 👋
 
-### Business Intelligence Analyst | Power BI • SQL • Python
+## Revenue Analytics & Revenue Operations Professional
 
-I build analytics solutions that transform workforce, revenue, operational, and marketing data into actionable business insights.
+Transforming Revenue, Pipeline, Customer, and Commercial Data into Actionable Business Insights
 
-My work focuses on helping organizations make smarter decisions through forecasting, optimization, executive reporting, workforce planning, and performance analytics.
+Power BI • SQL • Python • PostgreSQL • Revenue Forecasting • Funnel Analytics • Commercial Intelligence
 
 ---
 
 ## 🚀 What I Do
 
-📊 Build executive dashboards and business intelligence solutions
+📊 Revenue Analytics & Revenue Operations
 
-👥 Analyze workforce trends, staffing demand, and retention risks
+📈 Revenue Forecasting & Pipeline Intelligence
 
-📈 Optimize revenue performance through forecasting and analytics
+🎯 Funnel & Conversion Analytics
 
-🎯 Measure marketing effectiveness and investment impact
+💰 Customer & Commercial Performance Analytics
 
-⚙️ Automate reporting processes and improve data quality
+📋 Executive KPI Reporting & Dashboard Development
 
-📚 Transform complex datasets into decision-ready insights
+⚙️ Reporting Automation & Data Governance
 
 ---
 
@@ -44,33 +44,32 @@ My work focuses on helping organizations make smarter decisions through forecast
 
 # 🌟 Featured Projects
 
-## 🚀 Enterprise Workforce Planning & Talent Intelligence Platform
+## 🚀 Revenue Operations Intelligence Platform
 
-A strategic workforce intelligence platform designed to help organizations balance workforce supply, forecast staffing demand, identify retention risks, and optimize recruitment effectiveness.
+### Business Challenge
 
-### Key Highlights
+Revenue teams often struggle with pipeline visibility, forecasting accuracy, conversion bottlenecks, and customer performance analysis.
 
-✅ Workforce Forecasting
+### Solution
 
-✅ Staffing Gap Analysis
+Built an end-to-end Revenue Operations platform providing visibility into:
 
-✅ Attrition Intelligence
+- $2.0B Pipeline
+- $342.8M Revenue
+- 100K Leads
+- 10K Customers
 
-✅ Workforce Risk Assessment
+### Capabilities
 
-✅ Recruitment Performance Analytics
+- Revenue Analytics
+- Funnel Analytics
+- Customer Intelligence
+- Sales Performance Analytics
+- Executive KPI Reporting
 
-✅ Executive Workforce Planning Dashboards
-
-### Business Impact
-
-* Analyzed workforce activity across **5,000 employees**
-* Identified a projected workforce gap of **2,735 positions**
-* Monitored workforce risk exposure across **8 departments**
-* Evaluated recruitment capacity against forecasted workforce demand
 
 🔗 Repository:
-[Enterprise Workforce Planning & Talent Intelligence](https://github.com/Richie-Rokka/enterprise-workforce-planning-talent-intelligence)
+[Revenue Operations Intelligence Platform](https://github.com/Richie-Rokka/revenue-operations-intelligence-platform)
 
 ---
 
@@ -139,23 +138,37 @@ This system demonstrates how raw administrative data can be transformed into a g
 
 # 🎯 Areas of Focus
 
-* Business Intelligence
-* Workforce Planning Analytics
-* Revenue Operations Analytics
-* People Analytics
-* Forecasting & Optimization
-* Executive Dashboard Development
-* Data Quality & Governance
-* Strategic Analytics
+## Areas of Focus
+
+- Revenue Analytics
+
+- Revenue Operations
+
+- Commercial Intelligence
+
+- Sales Analytics
+
+- Funnel Analytics
+
+- Revenue Forecasting
+
+- Customer Analytics
+
+- Executive Reporting
+
+- Data Quality & Governance
 
 ---
 
 # 📈 Professional Highlights
 
-* 5+ years of experience in analytics, operations, and business performance management
-* Built enterprise-scale workforce planning and marketing analytics platforms
-* Experienced in forecasting, KPI reporting, and executive decision support
-* Passionate about turning data into strategic business outcomes
+✔ 10+ years of commercial, sales, operations, and analytics experience
+
+✔ Built enterprise-scale Revenue Operations, Marketing Analytics, and Business Intelligence solutions
+
+✔ Experienced in forecasting, KPI governance, executive reporting, and performance optimization
+
+✔ Passionate about helping organizations improve revenue performance through data-driven decision-making
 
 ---
 
