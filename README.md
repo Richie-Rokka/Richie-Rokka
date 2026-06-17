@@ -54,18 +54,21 @@ Revenue teams often struggle with pipeline visibility, forecasting accuracy, con
 
 Built an end-to-end Revenue Operations platform providing visibility into:
 
-- $2.0B Pipeline
-- $342.8M Revenue
-- 100K Leads
-- 10K Customers
+📊 $2.0B Pipeline
+
+💰 $342.8M Revenue
+
+🎯 100K Leads
+
+👥 10K Customers
 
 ### Capabilities
 
-- Revenue Analytics
-- Funnel Analytics
-- Customer Intelligence
-- Sales Performance Analytics
-- Executive KPI Reporting
+✅ Revenue Analytics
+✅ Funnel Analytics
+✅ Customer Intelligence
+✅ Sales Performance Analytics
+✅ Executive KPI Reporting
 
 
 🔗 Repository:
@@ -100,6 +103,37 @@ An end-to-end analytics solution designed to evaluate marketing effectiveness, f
 
 🔗 Repository:
 [Marketing Mix Modeling & Revenue Optimization](https://github.com/Richie-Rokka/marketing-mix-modeling-budget-optimization-dashboard)
+
+---
+
+# 📊 Cohort-Based Marketing Funnel Analysis  
+**Identifying Conversion Bottlenecks, Retention Decay, and High-ROI Channels**
+
+🚀 End-to-end analytics project combining **SQL, Python, and Power BI** to diagnose where growth breaks across the marketing funnel and how to fix it.
+
+---
+
+### 📊 Key Findings
+
+- 🚨 Largest drop-off at SQL → Customer (~67%)  
+- 📉 Conversions heavily front-loaded (0–30 days)  
+- 🔁 No delayed conversion or lifecycle recovery  
+- 💸 LinkedIn shows high CAC with low conversion  
+
+---
+
+## 💼 Business Impact
+
+This system enables:
+
+- 🎯 Identification of conversion bottlenecks  
+- 📉 Reduction of funnel drop-off  
+- 💰 Optimization of marketing spend  
+- 📊 Better allocation across channels  
+- 🔁 Integration of acquisition + conversion + retention  
+
+🔗 Repository:
+[Cohort-Based Marketing Funnel Analysis](https://github.com/Richie-Rokka/Cohort-Based-Marketing-Funnel-Analysis-SQL-Python-Power-BI))
 
 ---
 
