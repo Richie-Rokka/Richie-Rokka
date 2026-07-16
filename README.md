@@ -1,6 +1,6 @@
 # Hi, I'm Abodunrin Oketade 👋
 
-## Revenue Analytics & Revenue Operations Professional
+## Commercial Performance & Revenue Operations Professional
 
 I help organizations transform revenue, pipeline, customer, and commercial data into actionable business insights that improve growth, forecasting accuracy, sales performance, and executive decision-making.
 
