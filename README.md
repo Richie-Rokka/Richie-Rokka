@@ -2,7 +2,7 @@
 
 ## Business Analyst | Commercial Performance | Business Intelligence | Operational Analytics
 
-## Helping organizations solve business problems through business analysis, process improvement, and data-driven decision-making.
+### Helping organizations solve business problems through business analysis, process improvement, and data-driven decision-making.
 
 I am a Business Analyst with over 10 years of experience improving commercial performance, operational efficiency, and business decision-making across multinational consumer goods and transportation organizations.
 
@@ -11,12 +11,19 @@ My experience combines business analysis, stakeholder collaboration, operational
 I specialize in:
 
 -Business Analysis
+
 -Business Performance Analysis
+
 -Business Process Improvement
+
 -Stakeholder Management
+
 -Commercial & Operational Analytics
+
 -Executive KPI Development
+
 -Business Intelligence
+
 -Decision Support
 
 ---
