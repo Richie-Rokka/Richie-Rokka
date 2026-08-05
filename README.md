@@ -1,231 +1,243 @@
+<div align="center">
+
 # Hi, I'm Abodunrin Oketade 👋
 
-## Business Analyst | Commercial Performance | Business Intelligence | Operational Analytics
+### Business Analyst | Commercial Performance | Business Intelligence | Operational Analytics
 
-### Helping organizations solve business problems through business analysis, process improvement, and data-driven decision-making.
+Transforming business challenges into data-driven decisions through business analysis, process improvement, and business intelligence.
 
-I am a Business Analyst with over 10 years of experience improving commercial performance, operational efficiency, and business decision-making across multinational consumer goods and transportation organizations.
+<p>
+<a href="https://www.linkedin.com/in/abodunrin-oketade-579aa331">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-My experience combines business analysis, stakeholder collaboration, operational performance, commercial strategy, and business intelligence to help organizations identify business opportunities, improve processes, and deliver measurable business outcomes.
+<a href="mailto:aoketade@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-I specialize in:
+<a href="https://github.com/Richie-Rokka">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-*Business Analysis
-*Business Performance Analysis
-*Business Process Improvement
-*Stakeholder Management
-*Commercial & Operational Analytics
-*Executive KPI Development
-*Business Intelligence
-*Decision Support
+</p>
 
----
-
-## 🚀 Business Domains
-
-📈 Revenue Analytics
-
-🎯 Revenue Operations
-
-💰 Commercial Intelligence
-
-📊 Sales & Funnel Analytics
-
-👥 Customer Analytics
-
-🔮 Revenue Forecasting
-
-📋 Executive Reporting
-
-⚙️ Data Quality & Governance
+</div>
 
 ---
 
-# 🌟 Revenue Analytics Portfolio
+# 👨‍💼 About Me
 
-## 🚀 Revenue Operations Intelligence Platform
+I'm a **Business Analyst** with over **10 years of progressive experience** helping organizations improve commercial performance, operational efficiency, and executive decision-making.
 
-An end-to-end Revenue Intelligence solution designed to improve visibility into pipeline performance, sales effectiveness, customer value, and revenue growth.
+My career spans multinational consumer goods and transportation industries, where I have partnered with business leaders to understand business challenges, analyze operational performance, identify opportunities for improvement, and deliver analytical solutions that support strategic and operational decisions.
 
-#### Business Impact
-
-📊 $2.0B Pipeline Analyzed
-
-💰 $342.8M Revenue Tracked
-
-🎯 100K Leads Evaluated
-
-👥 10K Customer Records
-
-#### Capabilities
-
-• Revenue Analytics
-
-• Funnel Analytics
-
-• Customer Intelligence
-
-• Sales Performance Analytics
-
-• Executive KPI Reporting
-
-
-🔗 Repository:
-[Revenue Operations Intelligence Platform](https://github.com/Richie-Rokka/revenue-operations-intelligence-platform)
+I specialize in translating complex business data into actionable insights through **Business Analysis, Business Intelligence, KPI development, process improvement, and performance analytics**.
 
 ---
 
-## 📈 Marketing Mix Modeling & Revenue Optimization
+# 💼 What I Do
 
-An end-to-end analytics solution designed to evaluate marketing effectiveness, forecast revenue impact, and optimize budget allocation decisions.
+✔ Analyze business problems and identify improvement opportunities
 
-### Key Highlights
+✔ Partner with stakeholders to translate business requirements into analytical solutions
 
-✅ Marketing Mix Modeling
+✔ Develop KPI frameworks and executive performance dashboards
 
-✅ Revenue Forecasting
+✔ Improve operational efficiency through business process analysis
 
-✅ Budget Optimization
+✔ Deliver business intelligence solutions that support data-driven decision-making
 
-✅ Scenario Analysis
-
-✅ Channel Performance Evaluation
-
-✅ Executive Marketing Dashboards
-
-### Business Impact
-
-* Quantified channel-level marketing effectiveness
-* Simulated budget reallocation scenarios
-* Delivered revenue optimization recommendations
-* Supported data-driven marketing investment decisions
-
-🔗 Repository:
-[Marketing Mix Modeling & Revenue Optimization](https://github.com/Richie-Rokka/marketing-mix-modeling-budget-optimization-dashboard)
+✔ Transform complex operational and commercial data into meaningful business insights
 
 ---
 
-## 📊 Cohort-Based Marketing Funnel Analysis  
-**Identifying Conversion Bottlenecks, Retention Decay, and High-ROI Channels**
+# 🎯 Core Business Analysis Expertise
 
-🚀 End-to-end analytics project combining **SQL, Python, and Power BI** to diagnose where growth breaks across the marketing funnel and how to fix it.
-
-### 📊 Key Findings
-
-- 🚨 Largest drop-off at SQL → Customer (~67%)  
-- 📉 Conversions heavily front-loaded (0–30 days)  
-- 🔁 No delayed conversion or lifecycle recovery  
-- 💸 LinkedIn shows high CAC with low conversion  
-
-### 💼 Business Impact
-
-This system enables:
-
-- 🎯 Identification of conversion bottlenecks  
-- 📉 Reduction of funnel drop-off  
-- 💰 Optimization of marketing spend  
-- 📊 Better allocation across channels  
-- 🔁 Integration of acquisition + conversion + retention  
-
-🔗 Repository:
-[Cohort-Based Marketing Funnel Analysis](https://github.com/Richie-Rokka/Cohort-Based-Marketing-Funnel-Analysis-SQL-Python-Power-BI))
+- 📊 Business Analysis
+- 🤝 Stakeholder Management
+- 📈 Business Performance Analysis
+- 🔍 Business Process Analysis
+- ⚙️ Process Improvement
+- 📉 Root Cause Analysis
+- 📋 Requirements Gathering
+- 📐 KPI Framework Development
+- 📑 Executive Reporting
+- 💡 Decision Support
+- 🔄 Continuous Improvement
+- 🌐 Cross-functional Collaboration
 
 ---
 
-## 📊 Data Quality Monitoring & Governance System
+# 🛠 Analytics & Technology
 
-An automated data quality framework designed to identify anomalies, duplicates, inconsistencies, and reporting issues across operational datasets.
+### Business Intelligence
 
-### Key Highlights
+- Power BI
+- SQL
+- Python
+- Excel
+- DAX
+- Power Query
 
-✅ Data Validation
+### Data
 
-✅ Data Quality Monitoring
+- PostgreSQL
+- ETL
+- Data Modeling
+- Data Validation
+- Data Warehousing
 
-✅ Reporting Governance
+### Reporting
 
-✅ Process Automation
-
-✅ KPI Monitoring
-
-### 💼 Business Value
-
-This system demonstrates how raw administrative data can be transformed into a governed analytical asset that supports:
-
-- ✅ Improved revenue forecasting accuracy
-- ✅ Better policy decision-making
-- ✅ Early detection of data degradation
-- ✅ Increased trust in reporting systems
-- ✅ Reduced manual data validation effort
-
-> 📌 Key Insight: Data quality issues are not reporting errors — they are decision risks.
-
-🔗 Repository:
-[Data Quality Monitoring & Governance System](https://github.com/Richie-Rokka/Data-Quality-Monitoring-and-Governance-System)
+- Executive Dashboards
+- KPI Reporting
+- Data Visualization
+- Performance Analytics
+- Reporting Automation
 
 ---
 
-## 🛠️ Technical Toolkit
+# 🚀 Featured Enterprise Projects
 
-### Analytics & BI
+## 📊 Revenue Operations Intelligence Platform
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-Analytics-blue?style=for-the-badge)
-![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge)
+Enterprise Business Intelligence platform integrating Sales, Marketing, Customer, Finance, and Revenue data into a centralized analytics ecosystem supporting executive decision-making.
 
-### Data & Reporting
+**Business Focus**
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
-![Data Modeling](https://img.shields.io/badge/Data_Modeling-Analytics-orange?style=for-the-badge)
-
----
-
-## 🎯 Areas of Focus
-
-• Revenue Analytics
-
-• Revenue Operations
-
-• Commercial Intelligence
-
-• Revenue Forecasting
-
-• Pipeline Analytics
-
-• Customer Analytics
-
-• Sales Analytics
-
-• Business Intelligence
+- Revenue Analytics
+- Sales Performance
+- Customer Intelligence
+- Executive KPI Reporting
+- Revenue Forecasting
+- Pipeline Analytics
 
 ---
 
-## 📈 Professional Highlights
+## 📈 Marketing Mix Modeling & Budget Optimization
 
-✔ 10+ years of commercial, sales, operations, and analytics experience
-
-✔ Built enterprise-scale Revenue Operations, Marketing Analytics, and Business Intelligence solutions
-
-✔ Experienced in forecasting, KPI governance, executive reporting, and performance optimization
-
-✔ Passionate about helping organizations improve revenue performance through data-driven decision-making
+Marketing analytics platform evaluating channel effectiveness, campaign ROI, and budget optimization through statistical modeling.
 
 ---
 
-## 🤝 Let's Connect
+## 👥 Customer Acquisition & Funnel Analytics
 
-💼 LinkedIn
-[www.linkedin.com/in/abodunrin-oketade](http://www.linkedin.com/in/abodunrin-oketade)
-
-📂 GitHub Portfolio
-https://github.com/Richie-Rokka
-
-📧 Email
-[aoketade@gmail.com](mailto:aoketade@gmail.com)
+Business analysis project identifying customer conversion bottlenecks, funnel leakage, and marketing effectiveness across the customer acquisition lifecycle.
 
 ---
 
-> “Data becomes valuable when it drives better decisions.”
+## 🏢 Enterprise Workforce Planning & Talent Intelligence
+
+Enterprise workforce analytics platform supporting headcount planning, workforce utilization, hiring strategy, and organizational performance.
+
+---
+
+## ✅ Enterprise Data Quality Monitoring
+
+Business intelligence solution for monitoring data quality, governance, completeness, consistency, duplicate detection, and reporting integrity.
+
+---
+
+## 📦 Inventory Risk & Supply Chain Intelligence
+
+Operational analytics platform supporting inventory optimization, stock risk analysis, supplier performance, and supply chain visibility.
+
+---
+
+# 📊 Business Domains
+
+- Business Analysis
+- Commercial Performance
+- Business Intelligence
+- Revenue Analytics
+- Customer Analytics
+- Operational Analytics
+- Supply Chain Analytics
+- Performance Management
+- Executive Reporting
+- Decision Support
+
+---
+
+# 📈 Business Impact
+
+Throughout my career, I have helped organizations:
+
+📈 Improve commercial performance
+
+📊 Build KPI frameworks
+
+📉 Reduce operational inefficiencies
+
+💰 Increase revenue visibility
+
+📦 Improve supply chain collaboration
+
+📋 Automate reporting processes
+
+📈 Strengthen executive decision-making
+
+🔍 Identify business opportunities through analytics
+
+---
+
+# 💻 Technology Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,postgres,github"/>
+
+</p>
+
+**Analytics**
+
+- SQL
+- Power BI
+- Python
+- Excel
+- PostgreSQL
+
+**Business Analysis**
+
+- Requirements Gathering
+- Stakeholder Management
+- Process Improvement
+- KPI Development
+- Executive Reporting
+
+---
+
+# 🌱 Currently Focused On
+
+- Enterprise Business Analysis
+- Business Intelligence
+- Commercial Analytics
+- Revenue Operations
+- Executive Dashboard Development
+- Process Optimization
+- Decision Intelligence
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in connecting with professionals working in:
+
+- Business Analysis
+- Business Intelligence
+- Commercial Analytics
+- Revenue Operations
+- Operational Excellence
+- Data Analytics
+
+If you're passionate about solving business problems through analytics and business intelligence, let's connect!
+
+---
+
+<div align="center">
+
+### ⭐ Turning Business Data into Business Decisions ⭐
+
+*"Without data you're just another person with an opinion."* — W. Edwards Deming
+
+</div>
