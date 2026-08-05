@@ -10,21 +10,14 @@ My experience combines business analysis, stakeholder collaboration, operational
 
 I specialize in:
 
--Business Analysis
-
--Business Performance Analysis
-
--Business Process Improvement
-
--Stakeholder Management
-
--Commercial & Operational Analytics
-
--Executive KPI Development
-
--Business Intelligence
-
--Decision Support
+*Business Analysis
+*Business Performance Analysis
+*Business Process Improvement
+*Stakeholder Management
+*Commercial & Operational Analytics
+*Executive KPI Development
+*Business Intelligence
+*Decision Support
 
 ---
 
