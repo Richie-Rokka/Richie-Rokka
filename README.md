@@ -1,10 +1,23 @@
 # Hi, I'm Abodunrin Oketade 👋
 
-## Commercial Performance & Revenue Operations Professional
+## Business Analyst | Commercial Performance | Business Intelligence | Operational Analytics
 
-I help organizations transform revenue, pipeline, customer, and commercial data into actionable business insights that improve growth, forecasting accuracy, sales performance, and executive decision-making.
+## Helping organizations solve business problems through business analysis, process improvement, and data-driven decision-making.
 
-With 10+ years of experience across commercial operations, sales, trade marketing, logistics, and business intelligence, I combine deep business expertise with modern analytics capabilities to solve real-world revenue challenges.
+I am a Business Analyst with over 10 years of experience improving commercial performance, operational efficiency, and business decision-making across multinational consumer goods and transportation organizations.
+
+My experience combines business analysis, stakeholder collaboration, operational performance, commercial strategy, and business intelligence to help organizations identify business opportunities, improve processes, and deliver measurable business outcomes.
+
+I specialize in:
+
+-Business Analysis
+-Business Performance Analysis
+-Business Process Improvement
+-Stakeholder Management
+-Commercial & Operational Analytics
+-Executive KPI Development
+-Business Intelligence
+-Decision Support
 
 ---
 
