@@ -2,9 +2,14 @@
 
 # Hi, I'm Abodunrin Oketade 👋
 
-### Business Analyst | Commercial Performance | Business Intelligence | Operational Analytics
+## Business Intelligence Analyst
+### SQL • Power BI • Tableau • Python • Data Modeling • Business Insights
 
-Transforming business challenges into data-driven decisions through business analysis, process improvement, and business intelligence.
+I turn business data into **actionable insights that help organizations understand performance, identify opportunities, and make better decisions.**
+
+My background combines **commercial leadership, operational performance, customer analytics, and business intelligence**, giving me both the business context and technical capability needed to connect data with real business outcomes.
+
+---
 
 <p>
 <a href="https://www.linkedin.com/in/abodunrin-oketade-579aa331">
@@ -25,214 +30,238 @@ Transforming business challenges into data-driven decisions through business ana
 
 ---
 
-# 👨‍💼 About Me
+## 🔎 What I Do
 
-I'm a **Business Analyst** with over **10 years of progressive experience** helping organizations improve commercial performance, operational efficiency, and executive decision-making.
-
-My career spans multinational consumer goods and transportation industries, where I have partnered with business leaders to understand business challenges, analyze operational performance, identify opportunities for improvement, and deliver analytical solutions that support strategic and operational decisions.
-
-I specialize in translating complex business data into actionable insights through **Business Analysis, Business Intelligence, KPI development, process improvement, and performance analytics**.
-
----
-
-# 💼 What I Do
-
-✔ Analyze business problems and identify improvement opportunities
-
-✔ Partner with stakeholders to translate business requirements into analytical solutions
-
-✔ Develop KPI frameworks and executive performance dashboards
-
-✔ Improve operational efficiency through business process analysis
-
-✔ Deliver business intelligence solutions that support data-driven decision-making
-
-✔ Transform complex operational and commercial data into meaningful business insights
+- Analyze business and operational data to uncover trends, anomalies, and performance drivers
+- Build **Power BI dashboards and KPI reporting** that make business performance easier to understand
+- Use **SQL and Python** to clean, transform, validate, and analyze data
+- Develop analytical datasets and **data models** for reliable reporting
+- Translate business questions into measurable metrics and analytical solutions
+- Investigate performance gaps and identify opportunities for improvement
+- Apply data quality and governance practices to improve reporting reliability
+- Turn analytical findings into clear, decision-ready business insights
 
 ---
 
-# 🎯 Core Business Analysis Expertise
+## 🛠️ Technical Skills & Competencies
 
-- 📊 Business Analysis
-- 🤝 Stakeholder Management
-- 📈 Business Performance Analysis
-- 🔍 Business Process Analysis
-- ⚙️ Process Improvement
-- 📉 Root Cause Analysis
-- 📋 Requirements Gathering
-- 📐 KPI Framework Development
-- 📑 Executive Reporting
-- 💡 Decision Support
-- 🔄 Continuous Improvement
-- 🌐 Cross-functional Collaboration
-
----
-
-# 🛠 Analytics & Technology
-
-### Business Intelligence
-
+### Business Intelligence & Visualization
 - Power BI
-- SQL
-- Python
-- Excel
 - DAX
 - Power Query
+- Data Visualization
+- KPI Development
+- Executive & Operational Reporting
 
-### Data
-
+### Data & Analytics
+- SQL
+- Python
+- Pandas
+- Excel
 - PostgreSQL
-- ETL
+- Data Analysis
+- Statistical Analysis
+- Forecasting
+
+### Data Engineering & Modeling
+- ETL / ELT
 - Data Modeling
+- Dimensional Modeling
 - Data Validation
+- Data Quality Monitoring
 - Data Warehousing
 
-### Reporting
-
-- Executive Dashboards
-- KPI Reporting
-- Data Visualization
-- Performance Analytics
-- Reporting Automation
-
----
-
-# 🚀 Featured Enterprise Projects
-
-## 📊 Revenue Operations Intelligence Platform
-
-Enterprise Business Intelligence platform integrating Sales, Marketing, Customer, Finance, and Revenue data into a centralized analytics ecosystem supporting executive decision-making.
-
-**Business Focus**
-
+### Business & Performance Analytics
+- Commercial Performance
 - Revenue Analytics
-- Sales Performance
-- Customer Intelligence
-- Executive KPI Reporting
-- Revenue Forecasting
-- Pipeline Analytics
+- Customer Analytics
+- Sales Analytics
+- Operational Analytics
+- Funnel & Conversion Analytics
+- Marketing Analytics
+- Performance Management
+- Decision Support
 
 ---
 
-## 📈 Marketing Mix Modeling & Budget Optimization
+# 📊 Project Portfolio
 
-Marketing analytics platform evaluating channel effectiveness, campaign ROI, and budget optimization through statistical modeling.
+## 🚀 Revenue Operations Intelligence Platform
+
+An end-to-end business intelligence platform integrating commercial data to provide visibility into **pipeline, sales, customer, revenue, and operational performance**.
+
+**Built with:** SQL • Python • Power BI • DAX • ETL • Data Modeling
+
+**Focus areas:**
+- Revenue & sales analytics
+- Pipeline performance
+- Customer intelligence
+- KPI development
+- Executive reporting
+- Revenue forecasting
+- Operational performance
+
+---
+
+## 🎯 Marketing Mix Modeling & Budget Optimization
+
+An analytical solution designed to evaluate **marketing effectiveness, channel performance, ROI, and budget allocation**.
+
+**Built with:** Python • Statistical Modeling • Power BI • Data Analysis
+
+**Focus areas:**
+- Marketing effectiveness
+- Channel contribution
+- ROI analysis
+- Revenue impact
+- Scenario modeling
+- Budget optimization
 
 ---
 
 ## 👥 Customer Acquisition & Funnel Analytics
 
-Business analysis project identifying customer conversion bottlenecks, funnel leakage, and marketing effectiveness across the customer acquisition lifecycle.
+An end-to-end analysis of the customer acquisition funnel to identify **conversion gaps, funnel leakage, and opportunities to improve customer acquisition performance**.
+
+**Built with:** Python • Pandas • SQL • Cohort Analysis • Data Visualization
+
+**Key analysis:**
+- 500+ leads analyzed across funnel stages
+- Identified a **47.5% MQL-to-SQL drop-off**
+- Examined conversion performance across channels
+- Identified funnel bottlenecks and growth opportunities
 
 ---
 
-## 🏢 Enterprise Workforce Planning & Talent Intelligence
+## 🛡️ Enterprise Data Quality Monitoring & Governance
 
-Enterprise workforce analytics platform supporting headcount planning, workforce utilization, hiring strategy, and organizational performance.
+A data quality and governance solution focused on improving the **accuracy, completeness, consistency, and reliability of decision-critical data**.
 
----
+**Built with:** Excel • Power Query • Data Validation • Data Quality Monitoring
 
-## ✅ Enterprise Data Quality Monitoring
-
-Business intelligence solution for monitoring data quality, governance, completeness, consistency, duplicate detection, and reporting integrity.
+**Focus areas:**
+- Data completeness
+- Accuracy validation
+- Duplicate detection
+- Anomaly identification
+- Data consistency
+- Governance controls
+- Reporting reliability
 
 ---
 
 ## 📦 Inventory Risk & Supply Chain Intelligence
 
-Operational analytics platform supporting inventory optimization, stock risk analysis, supplier performance, and supply chain visibility.
+An operational analytics solution designed to identify **stockout risk, overstock exposure, lost-sales opportunities, and inventory planning issues**.
+
+**Built with:** Tableau • Data Analysis • Supply Chain Analytics
+
+**Focus areas:**
+- Inventory risk
+- Stockout analysis
+- Overstock analysis
+- Lost-sales analysis
+- Supplier performance
+- Warehouse allocation
 
 ---
 
-# 📊 Business Domains
+## 🏢 Enterprise Workforce Planning & Talent Intelligence
 
-- Business Analysis
-- Commercial Performance
+A workforce analytics platform designed to support **headcount planning, workforce utilization, hiring strategy, and organizational performance**.
+
+**Built with:** Power BI • DAX • Python • Data Modeling
+
+**Focus areas:**
+- Workforce forecasting
+- Headcount planning
+- Staffing gaps
+- Utilization analysis
+- Recruitment analytics
+- Attrition monitoring
+
+---
+
+# 💡 How I Approach Business Intelligence
+
+I believe effective Business Intelligence follows a simple progression:
+
+**Business Question → Data → Analysis → Insight → Decision → Business Outcome**
+
+A dashboard is only useful when it helps someone understand:
+
+**What is happening?  
+Why is it happening?  
+What should we do next?**
+
+That principle guides how I approach analytics, reporting, data modeling, and business intelligence solutions.
+
+---
+
+# 📈 Areas of Focus
+
 - Business Intelligence
+- Commercial Analytics
 - Revenue Analytics
 - Customer Analytics
 - Operational Analytics
-- Supply Chain Analytics
-- Performance Management
+- Performance Analytics
+- Data Quality & Governance
 - Executive Reporting
 - Decision Support
+- Process & Performance Improvement
 
 ---
 
-# 📈 Business Impact
+# 🔧 Current Technology Stack
 
-Throughout my career, I have helped organizations:
-
-📈 Improve commercial performance
-
-📊 Build KPI frameworks
-
-📉 Reduce operational inefficiencies
-
-💰 Increase revenue visibility
-
-📦 Improve supply chain collaboration
-
-📋 Automate reporting processes
-
-📈 Strengthen executive decision-making
-
-🔍 Identify business opportunities through analytics
+| Area | Tools |
+|---|---|
+| BI & Visualization | Power BI, Tableau |
+| Querying | SQL |
+| Programming | Python, Pandas |
+| Database | PostgreSQL | BigQuery |
+| Data Transformation | Power Query, Pandas, SQL |
+| Modeling | Data Modeling, Dimensional Modeling |
+| Reporting | Power BI, Tableau, Excel |
+| Analytics | Forecasting, Cohort Analysis, Funnel Analytics, Marketing Analytics |
+| Data Quality | Validation, Monitoring, Governance |
 
 ---
 
-# 💻 Technology Stack
+# 🎯 What I'm Building Toward
 
-<p>
+I'm focused on building practical Business Intelligence solutions that connect:
 
-<img src="https://skillicons.dev/icons?i=python,postgres,github"/>
+**Business Understanding + Data + Technology**
 
-</p>
+to produce:
 
-**Analytics**
-
-- SQL
-- Power BI
-- Python
-- Excel
-- PostgreSQL
-
-**Business Analysis**
-
-- Requirements Gathering
-- Stakeholder Management
-- Process Improvement
-- KPI Development
-- Executive Reporting
+**Better Data → Better Insights → Better Decisions → Better Business Outcomes**
 
 ---
 
-# 🌱 Currently Focused On
+## 🤝 Let's Connect
 
-- Enterprise Business Analysis
+I'm interested in opportunities involving:
+
 - Business Intelligence
-- Commercial Analytics
-- Revenue Operations
-- Executive Dashboard Development
-- Process Optimization
-- Decision Intelligence
-
----
-
-# 🤝 Let's Connect
-
-I'm always interested in connecting with professionals working in:
-
-- Business Analysis
-- Business Intelligence
-- Commercial Analytics
-- Revenue Operations
-- Operational Excellence
+- BI Analysis
 - Data Analytics
+- Commercial Analytics
+- Revenue Analytics
+- Operational Analytics
+- Performance Analytics
 
-If you're passionate about solving business problems through analytics and business intelligence, let's connect!
+📍 Ontario, Canada
+
+🔗 [LinkedIn](https://www.linkedin.com/in/abodunrin-oketade/)
 
 ---
+
+### ⭐ Business Intelligence is not about producing more reports.
+
+### It's about helping people understand what is happening, why it is happening, and what to do next.
 
 <div align="center">
 
