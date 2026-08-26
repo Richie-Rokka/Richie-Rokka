@@ -35,47 +35,47 @@ My background combines business and commercial experience with hands-on analytic
 
 **Focus:** Python · PostgreSQL · SQL · ETL · Data Warehousing · Data Quality · Power BI · Revenue Analytics
 
-➡️ `https://github.com/Richie-Rokka/Enterprise-Revenue-Intelligence-Platform`
+➡️ <ahref= "https://github.com/Richie-Rokka/Enterprise-Revenue-Intelligence-Platform">Link</a>
 
 ### 2. Commercial Analytics Pipeline
 A reproducible end-to-end analytics pipeline that transforms raw sales data into reusable revenue, customer, category, regional, and cohort insights.
 
 **Focus:** Python · Pandas · SQL · Data Validation · Revenue Analytics · Customer Analytics · Cohort Analysis · Data Visualization
 
-➡️ `https://github.com/Richie-Rokka/Commercial-Analytics-Pipeline`
+➡️ <ahref= "https://github.com/Richie-Rokka/Commercial-Analytics-Pipeline">Link</a>
 
 ### 3. Marketing Mix Modeling & Budget Optimization
 Marketing analytics project evaluating channel effectiveness, campaign ROI, revenue contribution, and scenario-based budget optimization.
 
 **Focus:** Python · SQL · Power BI · Marketing Analytics · ROI · Forecasting · Budget Optimization
 
-➡️ `https://github.com/Richie-Rokka/Marketing-Mix-Modeling-Budget-Optimization`
+➡️ <ahref= "https://github.com/Richie-Rokka/Marketing-Mix-Modeling-Budget-Optimization">Link</a>
 
 ### 4. Customer Acquisition & Funnel Analytics
 End-to-end funnel and cohort analysis focused on conversion trends, customer acquisition, funnel leakage, and marketing performance.
 
 **Focus:** Python · SQL · Power BI · Cohort Analysis · Funnel Analytics · Customer Analytics
 
-➡️ `https://github.com/Richie-Rokka/Customer-Acquisition-And-Funnel-Analytics`
+➡️ <ahref= "https://github.com/Richie-Rokka/Customer-Acquisition-And-Funnel-Analytics">Link</a>
 
 ### 5. Enterprise Workforce Planning & Talent Intelligence
 Workforce analytics solution supporting headcount planning, utilization analysis, attrition monitoring, recruitment performance, and organizational decision-making.
 
 **Focus:** Power BI · Workforce Analytics · Forecasting · KPI Development · Talent Intelligence
 
-➡️ `https://github.com/Richie-Rokka/Enterprise-Workforce-Planning-and-Talent-Intelligence`
+➡️ <ahref= "https://github.com/Richie-Rokka/Enterprise-Workforce-Planning-and-Talent-Intelligence">Link</a>
 
 ### 6. Enterprise Data Quality Monitoring
 Automated data quality and governance solution for identifying inconsistencies, missing data, duplicates, and reporting integrity issues.
 
 **Focus:** Data Quality · Data Validation · Power Query · Excel · Governance · Reporting
 
-➡️ `https://github.com/Richie-Rokka/Enterprise-Data-Quality-Monitoring`
+➡️ <ahref= "https://github.com/Richie-Rokka/Enterprise-Data-Quality-Monitoring">Link</a>
 
 ---
 
 ## 🛠️ Analytics & Technology
-
+ 
 **Business Intelligence**  
 `Power BI` · `SQL` · `DAX` · `Power Query` · `Excel`
 
@@ -102,23 +102,11 @@ Automated data quality and governance solution for identifying inconsistencies, 
 
 ## 🌐 Business Domains
 
-Commercial Performance · Business Intelligence · Revenue Analytics · Customer Analytics · Operational Analytics · Workforce Planning · Supply Chain Analytics · Executive Reporting
-
----
+Commercial Performance · Business Intelligence · Revenue Analytics · Customer Analytics · Operational Analytics · Workforce Planning · Supply Chain Analytics · Performance Analytics · Data Analytics · Executive Reporting
 
 ## 🤝 Let's Connect
 
-I'm interested in opportunities involving:
-
-- Business Intelligence
-- BI Analysis
-- Data Analytics
-- Commercial Analytics
-- Revenue Analytics
-- Operational Analytics
-- Performance Analytics
-
-📍 Ontario, Canada
+📍 GTA, Ontario. Canada
 
 ---
 
