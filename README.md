@@ -28,92 +28,102 @@ My background combines business and commercial experience with hands-on analytic
 
 ---
 
-## 🚀 Featured Projects
+# Hi, I'm Abodunrin Oketade 👋
 
-### 1. Enterprise Revenue Intelligence Platform
-**End-to-end analytics and business intelligence platform** integrating data ingestion, quality validation, warehouse modeling, semantic analytics, KPI development, and executive intelligence.
+### Business Intelligence Analyst | Commercial, Revenue & Operational Analytics
 
-**Focus:** Python · PostgreSQL · SQL · ETL · Data Warehousing · Data Quality · Power BI · Revenue Analytics
+I build end-to-end analytics solutions that transform complex business data into clear KPIs, decision-ready insights, and executive reporting.
 
-➡️ <a href= "https://github.com/Richie-Rokka/Enterprise-Revenue-Intelligence-Platform">Link</a>
-
-### 2. Commercial Analytics Pipeline
-A reproducible end-to-end analytics pipeline that transforms raw sales data into reusable revenue, customer, category, regional, and cohort insights.
-
-**Focus:** Python · Pandas · SQL · Data Validation · Revenue Analytics · Customer Analytics · Cohort Analysis · Data Visualization
-
-➡️ <a href= "https://github.com/Richie-Rokka/Commercial-Analytics-Pipeline">Link</a>
-
-### 3. Marketing Mix Modeling & Budget Optimization
-Marketing analytics project evaluating channel effectiveness, campaign ROI, revenue contribution, and scenario-based budget optimization.
-
-**Focus:** Python · SQL · Power BI · Marketing Analytics · ROI · Forecasting · Budget Optimization
-
-➡️ <a href= "https://github.com/Richie-Rokka/Marketing-Mix-Modeling-Budget-Optimization">Link</a>
-
-### 4. Customer Acquisition & Funnel Analytics
-End-to-end funnel and cohort analysis focused on conversion trends, customer acquisition, funnel leakage, and marketing performance.
-
-**Focus:** Python · SQL · Power BI · Cohort Analysis · Funnel Analytics · Customer Analytics
-
-➡️ <a href= "https://github.com/Richie-Rokka/Customer-Acquisition-And-Funnel-Analytics">Link</a>
-
-### 5. Enterprise Workforce Planning & Talent Intelligence
-Workforce analytics solution supporting headcount planning, utilization analysis, attrition monitoring, recruitment performance, and organizational decision-making.
-
-**Focus:** Power BI · Workforce Analytics · Forecasting · KPI Development · Talent Intelligence
-
-➡️ <a href= "https://github.com/Richie-Rokka/Enterprise-Workforce-Planning-and-Talent-Intelligence">Link</a>
-
-### 6. Enterprise Data Quality Monitoring
-Automated data quality and governance solution for identifying inconsistencies, missing data, duplicates, and reporting integrity issues.
-
-**Focus:** Data Quality · Data Validation · Power Query · Excel · Governance · Reporting
-
-➡️ <a href= "https://github.com/Richie-Rokka/Enterprise-Data-Quality-Monitoring">Link</a>
+My work combines commercial and operational experience with hands-on analytics across **SQL, Python, Power BI, Tableau, PostgreSQL, Excel, data modeling, and performance analysis**.
 
 ---
 
-## 🛠️ Analytics & Technology
- 
-**Business Intelligence**  
-`Power BI` · `SQL` · `DAX` · `Power Query` · `Excel`
+## 🚀 Featured Portfolio Projects
 
-**Data & Analytics**  
+### 🥇 Enterprise Revenue Intelligence Platform
+
+An enterprise-style analytics platform demonstrating how commercial and operational data can move from raw ingestion through quality validation, warehouse modeling, semantic analytics, KPI development, and executive reporting.
+
+**Business focus:** Revenue performance · Pipeline health · Sales effectiveness · Customer value · Operational intelligence
+
+**Tech:** `Python` · `PostgreSQL` · `SQL` · `ETL` · `Data Warehousing` · `Data Quality` · `Power BI`
+
+➡️ [Explore the project](https://github.com/Richie-Rokka/Revenue-Operations-Intelligence-Platform)
+
+---
+
+### 🥈 Commercial Analytics Pipeline
+
+A reproducible analytics pipeline that transforms raw sales data into reusable insights across revenue, customers, products, regions, segmentation, and cohort performance.
+
+**Business focus:** Revenue trends · Customer performance · Regional analysis · Segmentation · Cohort insights
+
+**Tech:** `Python` · `Pandas` · `SQL` · `Data Validation` · `Analytics Engineering` · `Data Visualization`
+
+➡️ [Explore the project](https://github.com/Richie-Rokka/Commercial-Analytics-Pipeline)
+
+---
+
+### 🥉 Enterprise Workforce Planning & Talent Intelligence
+
+A workforce analytics solution supporting headcount planning, utilization analysis, attrition monitoring, recruitment performance, and organizational decision-making.
+
+**Business focus:** Workforce planning · Attrition · Utilization · Recruitment performance · Staffing gaps
+
+**Tech:** `Power BI` · `DAX` · `Forecasting` · `KPI Development` · `Workforce Analytics`
+
+➡️ [Explore the project](https://github.com/Richie-Rokka/Enterprise-Workforce-Planning-and-Talent-Intelligence)
+
+---
+
+## 📊 Additional Analytics Projects
+
+| Project                                                                                                                    | Focus                                                                    | Tech                    |
+| -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ----------------------- |
+| [Marketing Mix Modeling & Budget Optimization](https://github.com/Richie-Rokka/Marketing-Mix-Modeling-Budget-Optimization) | Channel effectiveness, ROI, forecasting, and budget allocation           | Python · SQL · Power BI |
+| [Customer Acquisition & Funnel Analytics](https://github.com/Richie-Rokka/Customer-Acquisition-And-Funnel-Analytics)       | Conversion, cohort analysis, funnel leakage, and acquisition performance | Python · SQL · Power BI |
+| [Enterprise Data Quality Monitoring](https://github.com/Richie-Rokka/Enterprise-Data-Quality-Monitoring)                   | Data validation, reporting integrity, and governance                     | Power Query · Excel     |
+
+---
+
+## 🛠️ Core Analytics Stack
+
+**Business Intelligence**
+`Power BI` · `Tableau` · `SQL` · `DAX` · `Power Query` · `Excel`
+
+**Data & Analytics Engineering**
 `Python` · `Pandas` · `PostgreSQL` · `ETL` · `Data Modeling` · `Data Validation`
 
-**Business & Performance**  
-`KPI Development` · `Commercial Analytics` · `Revenue Analytics` · `Customer Analytics` · `Operational Analytics`
+**Analytics & Performance**
+`KPI Development` · `Revenue Analytics` · `Commercial Analytics` · `Customer Analytics` · `Operational Analytics` · `Forecasting`
 
 ---
 
 ## 🎯 What I Build
 
-- 📊 Executive and operational dashboards
-- 💰 Revenue and commercial performance analytics
-- 👥 Customer, cohort, and funnel analysis
-- 📈 KPI frameworks and performance reporting
-- ⚙️ Automated analytics workflows
-- 🗄️ SQL-based analytical solutions
-- 🔍 Data quality and validation processes
-- 🏗️ Structured data and analytics pipelines
+* 📊 Executive and operational dashboards
+* 💰 Revenue and commercial performance analytics
+* 👥 Customer, cohort, and funnel analysis
+* 📈 KPI frameworks and performance reporting
+* 🗄️ SQL-based analytical solutions and data models
+* ⚙️ Automated analytics and ETL workflows
+* 🔍 Data quality and validation frameworks
+* 🏗️ End-to-end analytics pipelines
 
 ---
 
-## 🌐 Business Domains
+## 🌐 Areas of Focus
 
-Commercial Performance · Business Intelligence · Revenue Analytics · Customer Analytics · Operational Analytics · Workforce Planning · Supply Chain Analytics · Performance Analytics · Data Analytics · Executive Reporting
+**Business Intelligence · Commercial Analytics · Revenue Analytics · Operational Performance · Customer Analytics · Workforce Planning · Data Quality · Executive Reporting**
+
+---
 
 ## 🤝 Let's Connect
 
-📍 GTA, Ontario. Canada
+I'm interested in opportunities and conversations around **Business Intelligence, Data Analytics, Commercial Analytics, Revenue Analytics, and Operational Performance**.
 
----
+📍 Ontario, Canada
+🔗 [LinkedIn](https://www.linkedin.com/in/abodunrin-oketade-579aa331)
 
-<div align="center">
+### Turning business data into actionable decisions.
 
-### ⭐ Turning Business Data into Business Decisions ⭐
-
-*"Without data you're just another person with an opinion."* — W. Edwards Deming
-
-</div>
