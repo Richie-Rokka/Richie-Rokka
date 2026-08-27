@@ -2,47 +2,63 @@
 
 ### Business Intelligence Analyst | Commercial, Revenue & Operational Analytics
 
-I build end-to-end analytics solutions that transform complex business data into clear KPIs, decision-ready insights, and executive reporting.
+I build analytics solutions that transform commercial, operational, and workforce data into clear KPIs, decision-ready insights, and executive reporting.
 
-My work combines commercial and operational experience with hands-on analytics across **SQL, Python, Power BI, Tableau, PostgreSQL, Excel, data modeling, and performance analysis**.
+My background combines commercial and business experience with hands-on analytics across **SQL, Python, Power BI, PostgreSQL, data modeling, ETL, and performance analysis**.
 
 ---
 
 ## 🚀 Featured Portfolio Projects
 
-### 🥇 Enterprise Revenue Intelligence Platform
+### 🥇 Commercial Analytics Pipeline
 
-An enterprise-style analytics platform demonstrating how commercial and operational data can move from raw ingestion through quality validation, warehouse modeling, semantic analytics, KPI development, and executive reporting.
+Reproducible end-to-end analytics workflow for transforming raw commercial data into trusted business insights.
 
-**Business focus:** Revenue performance · Pipeline health · Sales effectiveness · Customer value · Operational intelligence
+The project demonstrates a structured analytics pipeline covering data preparation, validation, SQL analysis, and reusable outputs across revenue, customers, products, regions, segmentation, and cohort retention.
 
-**Tech:** `Python` · `PostgreSQL` · `SQL` · `ETL` · `Data Warehousing` · `Data Quality` · `Power BI`
+**Focus:** `Python` · `Pandas` · `SQL` · `Data Validation` · `Revenue Analytics` · `Customer Analytics` · `Cohort Analysis` · `Data Visualization`
 
-➡️ [Explore the project](https://github.com/Richie-Rokka/Enterprise-Revenue-Intelligence-Platform)
+➡️ [View Project](https://github.com/Richie-Rokka/Commercial-Analytics-Pipeline)
 
 ---
 
-### 🥈 Commercial Analytics Pipeline
+### 🥈 Revenue Operations Intelligence Platform
 
-A reproducible analytics pipeline that transforms raw sales data into reusable insights across revenue, customers, products, regions, segmentation, and cohort performance.
+Business intelligence platform for analyzing the commercial funnel, sales performance, customer value, and revenue operations.
 
-**Business focus:** Revenue trends · Customer performance · Regional analysis · Segmentation · Cohort insights
+The project transforms simulated commercial data into decision-support analytics across lead generation, opportunity performance, sales effectiveness, customer value, and revenue intelligence.
 
-**Tech:** `Python` · `Pandas` · `SQL` · `Data Validation` · `Analytics Engineering` · `Data Visualization`
+**Focus:** `Python` · `SQL` · `Power BI` · `Revenue Operations` · `Commercial Analytics` · `Funnel Analytics` · `KPI Development` · `Business Intelligence`
 
-➡️ [Explore the project](https://github.com/Richie-Rokka/Commercial-Analytics-Pipeline)
+➡️ [View Project](https://github.com/Richie-Rokka/Revenue-Operations-Intelligence-Platform)
 
 ---
 
 ### 🥉 Enterprise Workforce Planning & Talent Intelligence
 
-A workforce analytics solution supporting headcount planning, utilization analysis, attrition monitoring, recruitment performance, and organizational decision-making.
+Power BI workforce intelligence solution integrating workforce planning, attrition risk, and talent acquisition analytics.
 
-**Business focus:** Workforce planning · Attrition · Utilization · Recruitment performance · Staffing gaps
+The project combines workforce capacity, projected demand, staffing gaps, retention risk, and recruitment performance into a unified decision-support framework.
 
-**Tech:** `Power BI` · `DAX` · `Forecasting` · `KPI Development` · `Workforce Analytics`
+Note: This is a portfolio project built using synthetically generated workforce data and does not represent results from an actual organization.
 
-➡️ [Explore the project](https://github.com/Richie-Rokka/Enterprise-Workforce-Planning-and-Talent-Intelligence)
+**Focus:** `Power BI` · `DAX` · `Workforce Analytics` · `Workforce Planning` · `People Analytics` · `Forecasting` · `Talent Intelligence` · `Data Modeling`
+
+➡️ [View Project](https://github.com/Richie-Rokka/Enterprise-Workforce-Planning-and-Talent-Intelligence)
+
+---
+
+###  Enterprise Revenue Intelligence Platform
+
+Enterprise-grade data platform architecture for ingesting, validating, warehousing modeling, semantic analytics, KPI development, and executive reporting, and exposing revenue data for analytics.
+
+The completed and published platform baseline demonstrates modular ETL orchestration, PostgreSQL warehousing, data quality controls, runtime monitoring, semantic analytics, and KPI development.
+
+The project is currently paused beyond its completed v4.5.0 baseline, which remains the documented architectural reference.
+
+**Focus:** `Python` · `PostgreSQL` · `SQL` · `ETL` · `Data Warehousing` · `Data Quality` · `Semantic Layer` · `Analytics Engineering` · `Revenue Analytics`
+
+➡️ [View Project](https://github.com/Richie-Rokka/Enterprise-Revenue-Intelligence-Platform)
 
 ---
 
@@ -56,24 +72,27 @@ A workforce analytics solution supporting headcount planning, utilization analys
 
 ---
 
-## 🛠️ Core Analytics Stack
+## 🛠️ Analytics & Technology
 
 **Business Intelligence**
-`Power BI` · `Tableau` · `SQL` · `DAX` · `Power Query` · `Excel`
+
+`Power BI` · `SQL` · `DAX` · `Power Query` · `Tableau` · `Excel`
 
 **Data & Analytics Engineering**
-`Python` · `Pandas` · `PostgreSQL` · `ETL` · `Data Modeling` · `Data Validation`
 
-**Analytics & Performance**
-`KPI Development` · `Revenue Analytics` · `Commercial Analytics` · `Customer Analytics` · `Operational Analytics` · `Forecasting`
+`Python` · `Pandas` · `NumPy` · `PostgreSQL` · `ETL` · `Data Modeling` · `Data Validation`
+
+**Analytics & Business Performance**
+
+`Commercial Analytics` · `Revenue Analytics` · `Revenue Operations` · `Customer Analytics` · `Workforce Analytics` · `Operational Analytics` · `Forecasting`
 
 ---
 
 ## 🎯 What I Build
 
-* 📊 Executive and operational dashboards
+* 📊 Executive and operational intelligence solutions
 * 💰 Revenue and commercial performance analytics
-* 👥 Customer, cohort, and funnel analysis
+* 👥 Customer, cohort, funnel, workforce analytics
 * 📈 KPI frameworks and performance reporting
 * 🗄️ SQL-based analytical solutions and data models
 * ⚙️ Automated analytics and ETL workflows
@@ -82,9 +101,9 @@ A workforce analytics solution supporting headcount planning, utilization analys
 
 ---
 
-## 🌐 Areas of Focus
+## 🌐 Business Domains
 
-**Business Intelligence · Commercial Analytics · Revenue Analytics · Operational Performance · Customer Analytics · Workforce Planning · Data Quality · Executive Reporting**
+**Business Intelligence · Commercial Performance · Revenue Analytics · Revenue Operations · Customer Analytics · Operational Analytics · Workforce Planning · People Analytics · Performance Analytics · Executive Reporting**
 
 ---
 
