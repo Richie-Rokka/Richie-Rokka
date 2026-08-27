@@ -18,7 +18,7 @@ An enterprise-style analytics platform demonstrating how commercial and operatio
 
 **Tech:** `Python` · `PostgreSQL` · `SQL` · `ETL` · `Data Warehousing` · `Data Quality` · `Power BI`
 
-➡️ [Explore the project](https://github.com/Richie-Rokka/Revenue-Operations-Intelligence-Platform)
+➡️ [Explore the project](https://github.com/Richie-Rokka/Enterprise-Revenue-Intelligence-Platform)
 
 ---
 
