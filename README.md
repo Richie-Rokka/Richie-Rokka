@@ -93,10 +93,10 @@ A workforce analytics solution supporting headcount planning, utilization analys
 I'm interested in opportunities and conversations around **Business Intelligence, Data Analytics, Commercial Analytics, Revenue Analytics, and Operational Performance**.
 
 📍 Ontario, Canada
-🔗 [LinkedIn](https://www.linkedin.com/in/abodunrin-oketade-579aa331)
+🔗 
 
 <p>
-<a href="https://www.linkedin.com/in/abodunrin-oketade-579aa331">
+<a href="https://www.linkedin.com/in/abodunrin-oketade">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
