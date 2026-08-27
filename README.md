@@ -1,33 +1,3 @@
-<div align="center">
-
-# Hi, I'm Abodunrin Oketade 👋
-
-### Business Intelligence | Commercial Analytics | Revenue & Operational Performance
-
-I build analytics solutions that transform commercial and operational data into **clear KPIs, decision-ready insights, and executive reporting**.
-
-My background combines business and commercial experience with hands-on analytics across **SQL, Python, Power BI, Excel, PostgreSQL, data modeling, and performance analysis**.
----
-
-<p>
-<a href="https://www.linkedin.com/in/abodunrin-oketade-579aa331">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:aoketade@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Richie-Rokka">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
-</div>
-
----
-
 # Hi, I'm Abodunrin Oketade 👋
 
 ### Business Intelligence Analyst | Commercial, Revenue & Operational Analytics
@@ -124,6 +94,25 @@ I'm interested in opportunities and conversations around **Business Intelligence
 
 📍 Ontario, Canada
 🔗 [LinkedIn](https://www.linkedin.com/in/abodunrin-oketade-579aa331)
+
+<p>
+<a href="https://www.linkedin.com/in/abodunrin-oketade-579aa331">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:aoketade@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Richie-Rokka">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+</div>
+
+---
 
 ### Turning business data into actionable decisions.
 
