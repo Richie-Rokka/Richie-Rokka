@@ -47,9 +47,7 @@ Note: This is a portfolio project built using synthetically generated workforce 
 ➡️ [View Project](https://github.com/Richie-Rokka/Enterprise-Workforce-Planning-and-Talent-Intelligence)
 
 ---
-<img width="49" height="49" alt="icon1" src="https://github.com/user-attachments/assets/09fad0fa-0924-461f-ad51-a6be8e968470" />
-
-###  Enterprise Revenue Intelligence Platform 
+<img width="24" height="24" alt="icon1" src="https://github.com/user-attachments/assets/09fad0fa-0924-461f-ad51-a6be8e968470" /> **Enterprise Revenue Intelligence Platform** 
 
 Enterprise-grade data platform architecture for ingesting, validating, warehousing modeling, semantic analytics, KPI development, and executive reporting, and exposing revenue data for analytics.
 
