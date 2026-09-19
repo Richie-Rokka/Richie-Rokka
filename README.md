@@ -4,7 +4,7 @@
 
 I build analytics solutions that transform commercial, operational, and workforce data into clear KPIs, decision-ready insights, and executive reporting.
 
-My background combines commercial and business experience with hands-on analytics across **SQL, Python, Power BI, PostgreSQL, data modeling, ETL, and performance analysis**.
+My background combines commercial and business experience with hands-on analytics across **SQL, Python, Power BI, DAX, PostgreSQL, Data Modeling, ETL, Performance Analysis, Power Automate**.
 
 ---
 
@@ -14,7 +14,7 @@ My background combines commercial and business experience with hands-on analytic
 
 End-to-end commercial reporting workflow connecting actual sales performance and CRM pipeline visibility with management decision support.
 
-Combines AdventureWorks sales data and Maven CRM opportunity data through Python extraction, transformation, validation, reporting-ready datasets, generated Excel outputs, and a Power BI report. A local Power Automate Desktop workflow supports report refresh/save and PDF-export navigation; PDF review and saving remain manual.
+Combines AdventureWorks sales data and Maven CRM opportunity data through Python extraction, transformation, validation, reporting-ready datasets, generated Excel outputs, and a Power BI report. A local Power Automate Desktop workflow supports report refresh/save and export distribution.
 
 **Focus:** `Python` · `SQL Server` · `AdventureWorks` · `Maven CRM` · `Excel` · `Power BI` · `Commercial Analytics` · `CRM Pipeline` · `Reporting Automation` · `Management Recommendations`
 
