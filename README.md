@@ -10,7 +10,19 @@ My background combines commercial and business experience with hands-on analytic
 
 ## 🚀 Featured Portfolio Projects
 
-### 🥇 Commercial Analytics Pipeline
+### 🥇 Automated Commercial Performance Reporting System
+
+End-to-end commercial reporting workflow connecting actual sales performance and CRM pipeline visibility with management decision support.
+
+Combines AdventureWorks sales data and Maven CRM opportunity data through Python extraction, transformation, validation, reporting-ready datasets, generated Excel outputs, and a Power BI report. A local Power Automate Desktop workflow supports report refresh/save and PDF-export navigation; PDF review and saving remain manual.
+
+**Focus:** `Python` · `SQL Server` · `AdventureWorks` · `Maven CRM` · `Excel` · `Power BI` · `Commercial Analytics` · `CRM Pipeline` · `Reporting Automation` · `Management Recommendations`
+
+➡️ [View Project](https://github.com/Richie-Rokka/Automated-Commercial-Performance-Reporting-System)
+
+---
+
+### 🥈 Commercial Analytics Pipeline
 
 Reproducible end-to-end analytics workflow for transforming raw commercial data into trusted business insights.
 
@@ -22,7 +34,7 @@ The project demonstrates a structured analytics pipeline covering data preparati
 
 ---
 
-### 🥈 Revenue Operations Intelligence Platform
+### 🥉 Revenue Operations Intelligence Platform
 
 Business intelligence platform for analyzing the commercial funnel, sales performance, customer value, and revenue operations.
 
@@ -34,26 +46,27 @@ The project transforms simulated commercial data into decision-support analytics
 
 ---
 
-### 🥉 Enterprise Workforce Planning & Talent Intelligence
+### 👥 Enterprise Workforce Planning & Talent Intelligence
 
 Power BI workforce intelligence solution integrating workforce planning, attrition risk, and talent acquisition analytics.
 
 The project combines workforce capacity, projected demand, staffing gaps, retention risk, and recruitment performance into a unified decision-support framework.
 
-Note: This is a portfolio project built using synthetically generated workforce data and does not represent results from an actual organization.
+Note: This portfolio project uses synthetically generated workforce data and does not represent results from an actual organization.
 
 **Focus:** `Power BI` · `DAX` · `Workforce Analytics` · `Workforce Planning` · `People Analytics` · `Forecasting` · `Talent Intelligence` · `Data Modeling`
 
 ➡️ [View Project](https://github.com/Richie-Rokka/Enterprise-Workforce-Planning-and-Talent-Intelligence)
 
 ---
-### <img width="24" height="24" alt="icon1" src="https://github.com/user-attachments/assets/09fad0fa-0924-461f-ad51-a6be8e968470" /> **Enterprise Revenue Intelligence Platform** 
 
-Enterprise-grade data platform architecture for ingesting, validating, warehousing modeling, semantic analytics, KPI development, and executive reporting, and exposing revenue data for analytics.
+### 🏗️ Enterprise Revenue Intelligence Platform
+
+Enterprise data platform architecture for ingesting, validating, warehousing, modeling, building semantic analytics and KPIs, and exposing revenue data for analytics.
 
 The completed and published platform baseline demonstrates modular ETL orchestration, PostgreSQL warehousing, data quality controls, runtime monitoring, semantic analytics, and KPI development.
 
-The project is currently paused beyond its completed v4.5.0 baseline, which remains the documented architectural reference.
+The project is paused beyond its completed v4.5.0 baseline, which remains the documented architectural reference.
 
 **Focus:** `Python` · `PostgreSQL` · `SQL` · `ETL` · `Data Warehousing` · `Data Quality` · `Semantic Layer` · `Analytics Engineering` · `Revenue Analytics`
 
@@ -61,13 +74,22 @@ The project is currently paused beyond its completed v4.5.0 baseline, which rema
 
 ---
 
+### 📈 Marketing Mix Modeling & Budget Optimization
+
+Marketing analytics project focused on channel effectiveness, return on investment, forecasting, and budget allocation.
+
+**Focus:** `Python` · `SQL` · `Power BI` · `Marketing Analytics` · `Marketing Mix Modeling` · `ROI` · `Forecasting` · `Budget Optimization`
+
+➡️ [View Project](https://github.com/Richie-Rokka/Marketing-Mix-Modeling-Budget-Optimization)
+
+---
+
 ## 📊 Additional Analytics Projects
 
-| Project                                                                                                                    | Focus                                                                    | Tech                    |
-| -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ----------------------- |
-| [Marketing Mix Modeling & Budget Optimization](https://github.com/Richie-Rokka/Marketing-Mix-Modeling-Budget-Optimization) | Channel effectiveness, ROI, forecasting, and budget allocation           | Python · SQL · Power BI |
-| [Customer Acquisition & Funnel Analytics](https://github.com/Richie-Rokka/Customer-Acquisition-And-Funnel-Analytics)       | Conversion, cohort analysis, funnel leakage, and acquisition performance | Python · SQL · Power BI |
-| [Enterprise Data Quality Monitoring](https://github.com/Richie-Rokka/Enterprise-Data-Quality-Monitoring)                   | Data validation, reporting integrity, and governance                     | Power Query · Excel     |
+| Project | Focus | Tech |
+|---|---|---|
+| [Customer Acquisition & Funnel Analytics](https://github.com/Richie-Rokka/Customer-Acquisition-And-Funnel-Analytics) | Conversion, cohort analysis, funnel leakage, and acquisition performance | Python · SQL · Power BI |
+| [Enterprise Data Quality Monitoring](https://github.com/Richie-Rokka/Enterprise-Data-Quality-Monitoring) | Data validation, reporting integrity, and governance | Power Query · Excel |
 
 ---
 
@@ -79,7 +101,7 @@ The project is currently paused beyond its completed v4.5.0 baseline, which rema
 
 **Data & Analytics Engineering**
 
-`Python` · `Pandas` · `NumPy` · `PostgreSQL` · `ETL` · `Data Modeling` · `Data Validation`
+`Python` · `Pandas` · `NumPy` · `PostgreSQL` · `SQL Server` · `ETL` · `Data Modeling` · `Data Validation`
 
 **Analytics & Business Performance**
 
@@ -91,7 +113,7 @@ The project is currently paused beyond its completed v4.5.0 baseline, which rema
 
 * 📊 Executive and operational intelligence solutions
 * 💰 Revenue and commercial performance analytics
-* 👥 Customer, cohort, funnel, workforce analytics
+* 👥 Customer, cohort, funnel, and workforce analytics
 * 📈 KPI frameworks and performance reporting
 * 🗄️ SQL-based analytical solutions and data models
 * ⚙️ Automated analytics and ETL workflows
@@ -111,7 +133,6 @@ The project is currently paused beyond its completed v4.5.0 baseline, which rema
 I'm interested in opportunities and conversations around **Business Intelligence, Data Analytics, Commercial Analytics, Revenue Analytics, and Operational Performance**.
 
 📍 Ontario, Canada
-🔗 
 
 <p>
 <a href="https://www.linkedin.com/in/abodunrin-oketade">
@@ -125,12 +146,8 @@ I'm interested in opportunities and conversations around **Business Intelligence
 <a href="https://github.com/Richie-Rokka">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-
 </p>
-
-</div>
 
 ---
 
 ### Turning business data into actionable decisions.
-
