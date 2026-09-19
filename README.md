@@ -22,18 +22,6 @@ Combines AdventureWorks sales data and Maven CRM opportunity data through Python
 
 ---
 
-### 🥈 Commercial Analytics Pipeline
-
-Reproducible end-to-end analytics workflow for transforming raw commercial data into trusted business insights.
-
-The project demonstrates a structured analytics pipeline covering data preparation, validation, SQL analysis, and reusable outputs across revenue, customers, products, regions, segmentation, and cohort retention.
-
-**Focus:** `Python` · `Pandas` · `SQL` · `Data Validation` · `Revenue Analytics` · `Customer Analytics` · `Cohort Analysis` · `Data Visualization`
-
-➡️ [View Project](https://github.com/Richie-Rokka/Commercial-Analytics-Pipeline)
-
----
-
 ### 🥉 Revenue Operations Intelligence Platform
 
 Business intelligence platform for analyzing the commercial funnel, sales performance, customer value, and revenue operations.
@@ -43,6 +31,18 @@ The project transforms simulated commercial data into decision-support analytics
 **Focus:** `Python` · `SQL` · `Power BI` · `Revenue Operations` · `Commercial Analytics` · `Funnel Analytics` · `KPI Development` · `Business Intelligence`
 
 ➡️ [View Project](https://github.com/Richie-Rokka/Revenue-Operations-Intelligence-Platform)
+
+---
+
+### 🥈 Commercial Analytics Pipeline
+
+Reproducible end-to-end analytics workflow for transforming raw commercial data into trusted business insights.
+
+The project demonstrates a structured analytics pipeline covering data preparation, validation, SQL analysis, and reusable outputs across revenue, customers, products, regions, segmentation, and cohort retention.
+
+**Focus:** `Python` · `Pandas` · `SQL` · `Data Validation` · `Revenue Analytics` · `Customer Analytics` · `Cohort Analysis` · `Data Visualization`
+
+➡️ [View Project](https://github.com/Richie-Rokka/Commercial-Analytics-Pipeline)
 
 ---
 
