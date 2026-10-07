@@ -2,7 +2,7 @@
 
 ### Business Intelligence Analyst | Commercial, Revenue & Operational Analytics
 
-I build analytics solutions that transform commercial, operational, and workforce data into clear KPIs, decision-ready insights, and executive reporting.
+I turn complex business data into insights that people can act on. I bridge the gap between what the data is telling the business and what the business needs to do—using Power BI, SQL, customer analytics, and commercial performance analysis to uncover opportunities, diagnose performance gaps, and drive better decisions.
 
 My background combines commercial and business experience with hands-on analytics across **SQL, Python, Power BI, DAX, PostgreSQL, Data Modeling, ETL, Performance Analysis, Power Automate**.
 
